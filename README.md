@@ -1,1 +1,2 @@
-# AtomicString1
+# Atomic String function AString(x) was introduced by Prof. Sergei Eremenko https://www.researchgate.net/profile/Sergei_Eremenko in papers # https://www.researchgate.net/publication/326530883_Atomic_Strings_and_Fabric_of_Spacetime_English_with_Russian_Abstract, https://www.researchgate.net/publication/329465767_Atomic_solitons_as_a_new_class_of_solitons_English_with_Russian_Abstract.
+# AString(x) is an integral of Atomic Function up(x) introduced in 1970th by V.L. Rvachev and V.A. Rvachev. This Notebook depicts important properties of AStrings and AFs. 
